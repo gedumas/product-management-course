@@ -22,43 +22,39 @@ An proposal for a course on product management for business school masters to pr
 These resources are just a starting recomendation, and there are many other great books and articles available on each of these topics.
 
 Product Strategy:
-"Inspired: How to Create Products Customers Love" by Marty Cagan
-"The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback" by Dan Olsen
-"Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty" by C. Todd Lombardo, Bruce McCarthy, and Evan Ryan
+- "Inspired: How to Create Products Customers Love" by Marty Cagan
+- "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback" by Dan Olsen
+- "Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty" by C. Todd Lombardo, Bruce McCarthy, and Evan Ryan
 
 Product Development:
-"The Design of Everyday Things" by Don Norman
-"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" by Jake Knapp
-"Hooked: How to Build Habit-Forming Products" by Nir Eyal
+- "The Design of Everyday Things" by Don Norman
+- "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" by Jake Knapp
+- "Hooked: How to Build Habit-Forming Products" by Nir Eyal
 
 Product Marketing:
-"Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers" by Geoffrey Moore
-"The Tipping Point: How Little Things Can Make a Big Difference" by Malcolm Gladwell
-"Influence: The Psychology of Persuasion" by Robert Cialdini
+- "Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers" by Geoffrey Moore
+- "The Tipping Point: How Little Things Can Make a Big Difference" by Malcolm Gladwell
+- "Influence: The Psychology of Persuasion" by Robert Cialdini
 
 User Experience:
-"Don't Make Me Think: A Common Sense Approach to Web Usability" by Steve Krug
-"The Elements of User Experience: User-Centered Design for the Web" by Jesse James Garrett
+- "Don't Make Me Think: A Common Sense Approach to Web Usability" by Steve Krug
+- "The Elements of User Experience: User-Centered Design for the Web" by Jesse James Garrett
 "User Story Mapping: Discover the Whole Story, Build the Right Product" by Jeff Patton
 
 Metrics and Analytics:
-"Lean Analytics: Use Data to Build a Better Startup Faster" by Alistair Croll and Benjamin Yoskovitz
-"Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity" by Avinash Kaushik
-"The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback" by Dan Olsen
+- "Lean Analytics: Use Data to Build a Better Startup Faster" by Alistair Croll and Benjamin Yoskovitz
+- "Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity" by Avinash Kaushik
+- "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback" by Dan Olsen
 
 Agile Product Management:
-"Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
-"Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson
-"User Story Mapping: Discover the Whole Story, Build the Right Product" by Jeff Patton
+- "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
+- "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson
+- "User Story Mapping: Discover the Whole Story, Build the Right Product" by Jeff Patton
 
 Leadership and Communication:
-"Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity" by Kim Scott
-"The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni
-"Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+- "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity" by Kim Scott
+- "The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni
+- "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 
 
 
-
-
-
-Copy to Clipboard
