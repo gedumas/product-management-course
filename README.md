@@ -12,6 +12,8 @@ _The objective of a course on product management can vary depending on the speci
 
 - Foster communication and collaboration skills: presenting to stakeholders, managing cross-functional teams, and collaborating with designers and developers.
 
+- Introduce the AI-powered product management: showcae the use of AI in the product development process to generate insights, make predictions, and automate tasks related to product development and innovation.
+
 Overall, the objective of a course on product management is to equip students with the knowledge, skills, and experience necessary to succeed in a product management role in a business or start-up.
 
 ## Outline
@@ -24,7 +26,7 @@ Overall, the objective of a course on product management is to equip students wi
 
 - User Experience: This would cover how to create a great user experience for the product. This includes designing the user interface, conducting user testing, and measuring user satisfaction.
 
-- Metrics and Analytics: This would cover how to measure the success of a product using metrics and analytics. This includes defining key performance indicators (KPIs), tracking user behavior, and analyzing data to make data-driven decisions.
+- Metrics and Analytics: defining key performance indicators (KPIs) and tracking product metrics, such as customer acquisition cost (CAC), lifetime value (LTV), churn rate, and engagement metrics to make data-driven decisions.
 
 - Agile Product Management: This would cover how to manage a product using agile methodologies. This includes working in sprints, conducting daily stand-ups, and using agile tools like Jira and Trello.
 
