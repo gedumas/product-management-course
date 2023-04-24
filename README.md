@@ -19,7 +19,7 @@ An proposal for a course on product management for business school masters to pr
 
 
 ### Teaching material based on the 7 Key Topics
-These resources are just a starting recomendation, and there are many other great books and articles available on each of these topics.
+_These resources are just a starting recomendation, and there are many other great books and articles available on each of these topics._
 
 Product Strategy:
 - "Inspired: How to Create Products Customers Love" by Marty Cagan
