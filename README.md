@@ -1,5 +1,5 @@
 # Product Management Course 
-An proposal for a course on product management for business school masters to provide them with a comprehensive understanding of the product management process and equip them with the skills and knowledge needed to succeed in this field.
+_An proposal for a course on product management for business school masters to provide them with a comprehensive understanding of the product management process and equip them with the skills and knowledge needed to succeed in this field._
 
 ## Objectives
 _The objective of a course on product management can vary depending on the specific program and course design. However, here are some possible general objectives that such a course could have:_
@@ -18,19 +18,19 @@ Overall, the objective of a course on product management is to equip students wi
 
 ## Outline
 ### 7 Key Topics
-- Product Strategy: This would cover how to create a product strategy that aligns with the overall business strategy. This includes conducting market research, identifying customer needs, and developing a roadmap for product development.
+- Product Strategy: creating a product strategy that aligns with the overall business strategy. This includes conducting market research, identifying customer needs, and developing a roadmap for product development.
 
-- Product Development: This would cover the process of developing a product from ideation to launch. This includes defining the product requirements, designing the product, testing the product, and launching the product.
+- Product Development: the process of developing a product from ideation to launch. This includes defining the product requirements, designing the product, testing the product, and launching the product.
 
-- Product Marketing: This would cover how to market and promote a product to potential customers. This includes creating a messaging strategy, identifying the target audience, and developing a go-to-market plan.
+- Product Marketing: promoting a product to potential customers by creating a messaging strategy, identifying the target audience, and developing a go-to-market plan.
 
-- User Experience: This would cover how to create a great user experience for the product. This includes designing the user interface, conducting user testing, and measuring user satisfaction.
+- User Experience: creating a great user experience for the product, which includes designing the user interface, conducting user testing, and measuring user satisfaction.
 
 - Metrics and Analytics: defining key performance indicators (KPIs) and tracking product metrics, such as customer acquisition cost (CAC), lifetime value (LTV), churn rate, and engagement metrics to make data-driven decisions.
 
-- Agile Product Management: This would cover how to manage a product using agile methodologies. This includes working in sprints, conducting daily stand-ups, and using agile tools like Jira and Trello.
+- Agile Product Management: managing a product using agile methodologies by working in sprints, conducting daily stand-ups, and using agile tools.
 
-- Leadership and Communication: This would cover how to lead a team of product managers and communicate effectively with stakeholders. This includes managing conflicts, presenting to executives, and building strong relationships with cross-functional teams.
+- Leadership and Communication: leading a team of product managers and communicating effectively with stakeholders by managing conflicts, presenting to executives, and building strong relationships with cross-functional teams.
 
 
 ### Course Assignments
@@ -68,7 +68,7 @@ Product Marketing:
 User Experience:
 - "Don't Make Me Think: A Common Sense Approach to Web Usability" by Steve Krug
 - "The Elements of User Experience: User-Centered Design for the Web" by Jesse James Garrett
-"User Story Mapping: Discover the Whole Story, Build the Right Product" by Jeff Patton
+- "User Story Mapping: Discover the Whole Story, Build the Right Product" by Jeff Patton
 
 Metrics and Analytics:
 - "Lean Analytics: Use Data to Build a Better Startup Faster" by Alistair Croll and Benjamin Yoskovitz
