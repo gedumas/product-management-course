@@ -1,7 +1,20 @@
 # Product Management Course 
 An proposal for a course on product management for business school masters to provide them with a comprehensive understanding of the product management process and equip them with the skills and knowledge needed to succeed in this field.
 
-## STRUCTURE
+## Objectives
+_The objective of a course on product management can vary depending on the specific program and course design. However, here are some possible general objectives that such a course could have:_
+
+- Develop an understanding of product management principles: product strategy, market research, customer development, product development, and go-to-market strategy.
+
+- Develop critical thinking skills: help students develop critical thinking skills to evaluate product management practices, assess product performance, and make data-driven decisions.
+
+- Provide hands-on experience: case studies, group projects, and simulations.
+
+- Foster communication and collaboration skills: presenting to stakeholders, managing cross-functional teams, and collaborating with designers and developers.
+
+Overall, the objective of a course on product management is to equip students with the knowledge, skills, and experience necessary to succeed in a product management role in a business or start-up.
+
+## Outline
 ### 7 Key Topics
 - Product Strategy: This would cover how to create a product strategy that aligns with the overall business strategy. This includes conducting market research, identifying customer needs, and developing a roadmap for product development.
 
@@ -16,6 +29,20 @@ An proposal for a course on product management for business school masters to pr
 - Agile Product Management: This would cover how to manage a product using agile methodologies. This includes working in sprints, conducting daily stand-ups, and using agile tools like Jira and Trello.
 
 - Leadership and Communication: This would cover how to lead a team of product managers and communicate effectively with stakeholders. This includes managing conflicts, presenting to executives, and building strong relationships with cross-functional teams.
+
+
+### Course Assignments
+_Final assignment for a course on product management could vary depending on the goals and objectives of the course.The final student course output should allow students apply the concepts and skills they learned in the course to a real-world scenario and demonstrate their understanding of product management principles. Here are a few possible ideas for a final assignment._
+
+- Product Launch Plan: Students could develop a launch plan for a new product, including market research, product requirements, go-to-market strategy, and key performance indicators (KPIs) for measuring success. It's possible to cooperate with the BI alumni or partner organizations interested in new product development. 
+
+- Product Management Case Study: Students could analyze a case study of a company's product management process and identify areas for improvement. They could then develop a plan for addressing these issues and present their recommendations to the class. Fex examples: https://producters.notion.site/producters/50-Product-Management-Case-Studies-8c5be47781e444aeb4f39a3d76a82fff
+
+- Product Roadmap: Students could create a product roadmap for an existing product, including new features, user experience improvements, and technology updates. They could then present their roadmap to the class and explain their reasoning for each item on the roadmap. 
+
+- Product Strategy: Students could develop a product strategy for a hypothetical company, including market analysis, customer segmentation, product differentiation, and competitive positioning. It can be also conducted a boardroom exercise where BI alumni to partake here as board members to evaluate presented strategies by the students.
+
+- Agile Product Development Project: Students could participate in an agile product development simulation, where they work in teams to develop a product using agile methodologies. They could then present their product to the class and reflect on their experience working in an agile environment. It could be possible to make it more practical and educational by cooperating with computer science and design students to build a product.
 
 
 ### Teaching material based on the 7 Key Topics
