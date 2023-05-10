@@ -1,5 +1,5 @@
 # Product Management Course 
-_An proposal for a course on product management for business school masters to provide them with a comprehensive understanding of the product management process and equip them with the skills and knowledge needed to succeed in this field._
+_A proposal for a course on product management for business school masters to provide them with a comprehensive understanding of the product management process and equip them with the skills and knowledge needed to succeed in this field._
 
 ## Objectives
 _The objective of a course on product management can vary depending on the specific program and course design. However, here are some possible general objectives that such a course could have:_
